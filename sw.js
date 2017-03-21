@@ -1,6 +1,6 @@
 var CACHE_NAME = 'GPS-Slate-v1';
 var urlsToCache = [
-  '/GPS.html',
+  '/index.html',
   // '/styles/main.css',
   // '/script/main.js'
 ];
