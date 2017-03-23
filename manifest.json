@@ -1,0 +1,15 @@
+{
+  "short_name": "GPS Slate",
+  "name": "GPS Slate",
+  "icons": [
+    {
+      "src": "app-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#FFFFFF",
+  "theme_color": "#000000",
+  "display": "standalone"
+}
